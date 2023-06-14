@@ -1,2 +1,2 @@
 #!/bin/bash
-sed tr Ac Ze
+sed tr A,c Z,e
